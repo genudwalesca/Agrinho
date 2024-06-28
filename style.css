@@ -47,7 +47,7 @@ section {
 }
 
 section h2 {
-    color: #333;
+    color: #af2b2b;
     border-bottom: 1px solid #ccc;
     padding-bottom: 5px;
 }
@@ -56,7 +56,7 @@ footer {
     text-align: center;
     margin-top: 20px;
     padding: 10px 0;
-    background-color: #333;
+    background-color: #249cc0;
     color: #fff;
     position: fixed;
     bottom: 0;
