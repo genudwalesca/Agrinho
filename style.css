@@ -13,6 +13,10 @@ header {
     text-align: center;
 }
 
+.titulo-principal{
+    font-size: 100px;
+}
+
 header nav ul {
     list-style-type: none;
     padding: 0;
