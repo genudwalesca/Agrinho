@@ -42,6 +42,10 @@ section {
     margin-bottom: 20px;
 }
 
+.imagem-rural{ 
+    width: 50%;
+}
+
 footer {
     background-color: #a1e9aa;
     color: #000000;
