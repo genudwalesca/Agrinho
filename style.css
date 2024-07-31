@@ -38,7 +38,8 @@ main {
     padding: 20px;
 }
 
-section {
+.cabecalho {
+    display: flex;
     margin-bottom: 20px;
 }
 
