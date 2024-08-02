@@ -38,6 +38,10 @@ main {
     margin-right: 20px;
     margin-left: 10px;
     padding: 20px;
+    . 2paragrafo{
+        text-align: ::after;
+
+    }
 }
 
 .cabecalho {
@@ -60,4 +64,9 @@ footer {
     position:unset;
     bottom: 0;
     width: 100%;
+}
+. 2paragrafo{
+
+
+
 }
