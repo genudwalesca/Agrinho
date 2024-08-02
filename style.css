@@ -15,11 +15,15 @@ body {
 }
 
 .sobre-rural{
+    display: flex;
+    justify-content: space-around;
+    align-items:center ;
+    padding: 24px 0;
 
 }
 
 .sobre-rural-div-conteudo{
-
+    width: 650px;
 }
 
 .titulo-principal{
@@ -28,7 +32,8 @@ body {
 }
 
 .sobre-rural-texto-um{
-
+    font-size: 22px;
+    padding: 10px 0;
 }
 
 .imagem-rural{ 
@@ -37,7 +42,7 @@ body {
 }
 
 .titulo-secundario{
-    
+
 }
 
 .titulo-terciario{
