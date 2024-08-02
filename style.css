@@ -19,6 +19,14 @@ header {
     font-family: "Bitter";
 }
 
+.titulo-secundario{
+
+}
+
+.titulo-terciario{
+    font-size: 30px;
+}
+
 header nav ul {
     list-style-type: none;
     padding: 0;
