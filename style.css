@@ -35,21 +35,6 @@ header {
 
 }
 
-header nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-header nav ul li {
-    display: inline;
-    margin-right: 10px;
-}
-
-header nav ul li a {
-    color: rgb(119, 201, 81);
-    text-decoration: none;
-}
-
 main {
     margin-right: 20px;
     margin-left: 10px;
